@@ -62,11 +62,13 @@ Users should be able to:
 }
 
 ```
-- 
+- Using display: flex on the body to center the component, rather than using absolute positioning. 
 ``` 
+body {
 display: flex; 
+}
 ``` 
-on the body to center the component, rather than using absolute positioning. 
+
 
 - Hide content for accessibility. I was previously making the mistake setting `{visibility: hidden;}` Now I do the following:
 ``` 
