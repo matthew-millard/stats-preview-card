@@ -28,7 +28,7 @@ Users should be able to:
 
 ![Stats preview card](/Screenshots/Desktop-Screenshot-Stats-Preview-Card.png)
 
-![Stats preview card](/Screenshots/Mobile-Screenshot-Stats-Preview-Card.png.png)
+![Stats preview card](/stats-preview-card/Screenshots/Screenshot%202023-02-13%20at%2020-19-21%20Frontend%20Mentor%20Stats%20preview%20card%20component.png)
 
 ### Links
 
