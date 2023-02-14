@@ -116,6 +116,10 @@ picture {
     padding: 7%;
 }
 
+.contents-container > * {
+    margin-top: 1.5rem;
+}
+
 .stats-container {
     margin-top: 2rem;
 }
