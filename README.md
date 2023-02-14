@@ -28,7 +28,7 @@ Users should be able to:
 
 ![Stats preview card](/Screenshots/Desktop-Screenshot-Stats-Preview-Card.png)
 
-![Stats preview card](/stats-preview-card/Screenshots/Screenshot%202023-02-13%20at%2020-19-21%20Frontend%20Mentor%20Stats%20preview%20card%20component.png)
+![Stats preview card](/Screenshots/Screenshot%202023-02-13%20at%2020-19-21%20Frontend%20Mentor%20Stats%20preview%20card%20component.png)
 
 ### Links
 
@@ -85,11 +85,11 @@ display: flex;
 
 ### Accessibility Resources 
 
-- [](https://www.a11yproject.com/posts/how-to-hide-content/)
+- [A11yproject](https://www.a11yproject.com/posts/how-to-hide-content/)
 
-- [](https://snook.ca/archives/html_and_css/hiding-content-for-accessibility)
+- [Snook](https://snook.ca/archives/html_and_css/hiding-content-for-accessibility)
 
-- [](https://developer.chrome.com/blog/full-accessibility-tree/)
+- [Chrome-developer-blog](https://developer.chrome.com/blog/full-accessibility-tree/)
 
 ### Continued development
 
