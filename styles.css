@@ -39,7 +39,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 3rem;
 }
 
 /* text styles */
@@ -80,9 +79,9 @@ picture {
 .card {
     background-color:hsl(244, 38%, 16%);
     border-radius: 10px;
-    max-width: 400px;
-    margin-inline: 8%;
-    
+    min-width: 200px;
+    max-width: 500px;
+    margin: 10%;
 }
 
 .container {
